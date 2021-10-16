@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## News App User Interface
 
-This project is a starting point for a Flutter application.
+Application Screens User Interface
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/AbdulSattarSuleman/Flutter-News-App/blob/master/screebshots/Screenshot_1634409750.png">
+<img src="https://github.com/AbdulSattarSuleman/Flutter-News-App/blob/master/screebshots/Screenshot_1634409760.png">
+<img src="https://github.com/AbdulSattarSuleman/Flutter-News-App/blob/master/screebshots/Screenshot_1634409774.png">
+<img src="https://github.com/AbdulSattarSuleman/Flutter-News-App/blob/master/screebshots/Screenshot_1634409779.png">
