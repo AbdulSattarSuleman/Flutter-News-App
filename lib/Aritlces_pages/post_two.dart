@@ -62,8 +62,12 @@ class PostTwo extends StatelessWidget {
               onTap: _launchUrl,
               child: RichText(
                   // ignore: prefer_const_literals_to_create_immutables
-                  text: TextSpan(text: 'Source\t',
-                      // style: DefaultTextStyle.of(context).style,
+                  text: TextSpan(
+                      text: 'Source\t',
+                      style: TextStyle(
+                        color: Colors.black,
+                        fontSize: 19,
+                      ),
                       children: <TextSpan>[
                     TextSpan(
                       text: 'https://dailytimes.com.pk/',
